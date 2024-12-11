@@ -70,3 +70,5 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Assets/Prefabs/Unity_Store__Medieval_Castle/Material
+/Assets/Prefabs/Unity_Store__Terrain/_3D_Realistic_Terrain_Free/Textures
