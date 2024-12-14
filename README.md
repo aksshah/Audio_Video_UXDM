@@ -43,7 +43,7 @@
 ### 3D Models
 - **Wolf**: [Wolf (Animated)](https://assetstore.unity.com/packages/3d/characters/animals/wolf-animated-45505)
 - **Big Tree Oak**: [Big Oak Tree (Free)](https://assetstore.unity.com/packages/3d/vegetation/big-oak-tree-free-279431)
-- **Medieval Castle**  
+- **Medieval Castle**:  
   [Medieval Castle Asset Store](https://assetstore.unity.com/packages/3d/environments/medieval-castle-227378)
 
 ### Nature Packs
@@ -67,13 +67,13 @@
 ---
 
 ### Sounds
-- **Wind Sound**  
+- **Wind Sound**:  
   [Pixabay Wind Sound](https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=18030)
 
-- **Running Sound**  
+- **Running Sound**:  
   [Pixabay Running on Grass](https://pixabay.com/sound-effects/running-on-grass-26845/)
 
-- **Background Music**  
+- **Background Music**:  
   [Fantasy Wonder](https://soundimage.org/fantasywonder/)
 
 ---
@@ -118,7 +118,25 @@ Special thanks to the creators of the resources used in this project:
 - Google and DaFont for the UI assets.
 - Flaticon for the potion icon.
 
+---
+
+## Work Done
+
+### Akshil
+- Setting up repository
+- Scene building
+- Adding player controls
+- Adding camera controls
+
+### Priyal
+- [Details to be added]
+
+### Sara
+- [Details to be added]
+
+---
 
 ## Notes
 - Ensure the correct Unity version (**2022.3.20f1**) is installed to avoid compatibility issues.
 - Follow all steps in the correct sequence to set up the project successfully.
+
