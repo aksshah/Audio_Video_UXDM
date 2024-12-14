@@ -81,7 +81,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/aksshah/Audio_Video_UXDM.git
    ```
 2. Open the project in your preferred development environment.
 3. Install any required dependencies listed in the `package.json` or other configuration files.
@@ -107,16 +107,13 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Open a pull request.
 
-## License
-Specify the license your project is under. For example:
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 Special thanks to the creators of the resources used in this project:
 - Unity Asset Store for the 3D models.
 - Google and DaFont for the UI assets.
 - Flaticon for the potion icon.
+- Audio creators from Pixabay.
 
 ---
 
@@ -125,8 +122,9 @@ Special thanks to the creators of the resources used in this project:
 ### Akshil
 - Setting up repository
 - Scene building
-- Adding player controls
-- Adding camera controls
+- Character Animation
+- Player controls
+- Camera controls
 
 ### Priyal
 - [Details to be added]
