@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     private GameObject player;
     private AudioSource movementSound;
     public GameObject camera;
+    public float turnSpeed = 5f;
 
     void Start()
     {
@@ -23,13 +24,22 @@ public class PlayerController : MonoBehaviour
         else
         {
             animator = player.GetComponent<Animator>();
-            Debug.Log(animator);
         }
     }
 
     void Update()
     {
         MovePlayer();
+
+        if (Input.GetMouseButton(0))
+        {
+            Cursor.lockState = CursorLockMode.Locked;
+            MoveCamera();
+        }
+        else
+        {
+            Cursor.lockState = CursorLockMode.None;
+        }
     }
 
     void MovePlayer()
@@ -83,12 +93,17 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log($"Collision with {other.gameObject.name}");
         if (other.CompareTag("collectable"))
         {
-            Debug.Log("Collectable detected and destroyed.");
             Destroy(other.gameObject);
         }
+    }
+
+    private void MoveCamera()
+    {
+        float x = Input.GetAxis("Mouse X");
+
+        camera.transform.RotateAround(player.transform.position, Vector3.up, x * turnSpeed);
     }
 }
 
