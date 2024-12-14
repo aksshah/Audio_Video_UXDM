@@ -79,5 +79,16 @@ public class PlayerController : MonoBehaviour
         // Apply velocity to Rigidbody
         rb.velocity = new Vector3(movement.x * moveSpeed, rb.velocity.y, movement.z * moveSpeed);
     }
+
+
+    private void OnTriggerEnter(Collider other)
+    {
+        Debug.Log($"Collision with {other.gameObject.name}");
+        if (other.CompareTag("collectable"))
+        {
+            Debug.Log("Collectable detected and destroyed.");
+            Destroy(other.gameObject);
+        }
+    }
 }
 
