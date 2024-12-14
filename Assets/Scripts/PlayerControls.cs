@@ -104,9 +104,6 @@ public class PlayerController : MonoBehaviour
         float x = Input.GetAxis("Mouse X");
 
         camera.transform.RotateAround(player.transform.position, Vector3.up, x * turnSpeed);
-
-        // Ensure the camera looks at the player after rotating
-        //camera.transform.LookAt(player.transform.position);
     }
 }
 
