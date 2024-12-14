@@ -2,18 +2,6 @@
 
 ---
 
-## Features
-- **3D Models**
-  - Realistic wolf character with animations.
-  - Beautiful oak tree to enhance the environment.
-  - Medieval castle and terrain elements for an immersive experience.
-- **UI Elements**
-  - Medieval-style background texture.
-  - Enchanted font type for an immersive experience.
-  - Potion icon for gameplay or decorative purposes.
-
----
-
 ## Steps to Run the Project
 
 1. **Download the Project Files**
