@@ -9,6 +9,7 @@ TagManager:
   - collectable
   - endflag
   - GroundLayer
+  - PlayerParent
   layers:
   - Default
   - TransparentFX
