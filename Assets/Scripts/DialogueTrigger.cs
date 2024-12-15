@@ -12,7 +12,7 @@ public class DialogueTrigger : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player") && !inDialogue)
+        if (other.CompareTag("PlayerParent") && !inDialogue)
         {
             StartDialogue();
         }
