@@ -46,7 +46,7 @@
 
 ## Sources
 
-### Assets Used
+### 3D Assets
 - **Wolf**: [Wolf (Animated)](https://assetstore.unity.com/packages/3d/characters/animals/wolf-animated-45505)
 - **Big Tree Oak**: [Big Oak Tree (Free)](https://assetstore.unity.com/packages/3d/vegetation/big-oak-tree-free-279431)
 - **Medieval Castle**:  
