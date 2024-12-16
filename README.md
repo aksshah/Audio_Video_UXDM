@@ -1,5 +1,7 @@
 # Unity Medieval Castle Project
 
+
+
 ---
 
 ## Steps to Run the Project
@@ -27,6 +29,8 @@
 5. **Run the Project**
    - Click the **Play** button in Unity to run the game.
 
+
+
 ---
 
 ## Player Controls
@@ -35,6 +39,8 @@
 - **D**: Move Right  
 - **W**: Move Forward  
 - **S**: Move Backward
+
+
 
 ---
 
@@ -54,6 +60,7 @@
 - **Background Texture**: [Medieval Background Texture](https://www.google.com/search?sca_esv=bd7e951c2ec0d6c5&sxsrf=ADLYWIKR4LaPaUoj7Lrne0eMX_B2_B2rcg:1734180520328&q=medieval+background+texture&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J0TTyieiSn4vVsjkTS5Hqtf4g42CrlErv5TdXaRk6ND4KJqlYJAEsj-kC5aknWmkN3l20fd6qLdP00yowDO24b5eE1bbMG6EGL--Objp67t01_EyGTGGht3Ao7YJvHFPL82-Sf8&sa=X&ved=2ahUKEwjzy4_vpaeKAxXh3gIHHchyAFkQtKgLegQIFhAB&biw=1512&bih=945&dpr=2#vhid=wyCsZKzywGkC3M&vssid=mosaic)
 
 
+
 ---
 
 ### Sounds
@@ -66,20 +73,24 @@
 ---
 
 
+
 ## Work Done
 
-### Akshil
+### Akshil Shah
 - Setting up repository
+- Setting up Unity Project(folder structure, etc.)
 - Scene building
-- Character Animation
-- Player controls
-- Camera controls
+- Character Import and Animation
+- Implementing Player controls
+- Implementing Camera controls
 
-### Priyal
+### Priyal Nagpal
 - [Details to be added]
 
-### Sara
+### Sara Taleb Nahzed
 - [Details to be added]
+
+
 
 ---
 
