@@ -49,7 +49,6 @@
 - **Stylized Nature Mega Kit**: [Stylized Nature Mega Kit](https://quaternius.com/packs/stylizednaturemegakit.html)
 - **3D Realistic Terrain Free**: [3D Realistic Terrain Free](https://assetstore.unity.com/packages/3d/environments/landscapes/3d-realistic-terrain-free-182593?srsltid=AfmBOorXdL1U0pZacoEdbERvZdMXo6mPSyhL3au1YN2Ic8rPfpYjHlla)
 - **Medieval Dungeon**: [Medieval Dungeon](https://quaternius.com/packs/medievaldungeon.html)
-- **Sky Panorama**: [Sky Panorama](https://www.vecteezy.com/photo/22906384-sky-panorama-panoramic-shot-of-a-beautiful-cloudy-sky)
 - **Font Type**: [Enchanted Land Font](https://www.dafont.com/enchanted-land-ds.font)
 - **Potion Icon**: [Potion Icon](https://www.flaticon.com/free-icon/potion_8595942?term=potion&page=1&position=11&origin=search&related_id=8595942)
 - **Background Texture**: [Medieval Background Texture](https://www.google.com/search?sca_esv=bd7e951c2ec0d6c5&sxsrf=ADLYWIKR4LaPaUoj7Lrne0eMX_B2_B2rcg:1734180520328&q=medieval+background+texture&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J0TTyieiSn4vVsjkTS5Hqtf4g42CrlErv5TdXaRk6ND4KJqlYJAEsj-kC5aknWmkN3l20fd6qLdP00yowDO24b5eE1bbMG6EGL--Objp67t01_EyGTGGht3Ao7YJvHFPL82-Sf8&sa=X&ved=2ahUKEwjzy4_vpaeKAxXh3gIHHchyAFkQtKgLegQIFhAB&biw=1512&bih=945&dpr=2#vhid=wyCsZKzywGkC3M&vssid=mosaic)
