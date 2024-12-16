@@ -83,6 +83,7 @@
 - Character Import and Animation
 - Implementing Player controls
 - Implementing Camera controls
+- Implementing Potion Collection
 
 ### Priyal Nagpal
 - [Details to be added]
