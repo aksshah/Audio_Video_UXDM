@@ -11,6 +11,10 @@ public class PlayerController : MonoBehaviour
     public GameObject camera;
     public float turnSpeed = 5f;
 
+    
+    private PotionCollectorWithPanel potionCollector;
+
+
     void Start()
     {
         rb = GetComponent<Rigidbody>();
@@ -24,6 +28,13 @@ public class PlayerController : MonoBehaviour
         else
         {
             animator = player.GetComponent<Animator>();
+        }
+
+        potionCollector = FindObjectOfType<PotionCollectorWithPanel>();
+
+        if (potionCollector == null)
+        {
+            Debug.LogError("PotionCollectorWithPanel not found in the scene!");
         }
     }
 
@@ -93,9 +104,9 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("collectable"))
+       if (other.CompareTag("collectable"))
         {
-            Destroy(other.gameObject);
+            potionCollector?.CollectPotion(other.gameObject);
         }
     }
 
