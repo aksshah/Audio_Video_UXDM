@@ -57,7 +57,7 @@
 - **Medieval Dungeon**: [Medieval Dungeon](https://quaternius.com/packs/medievaldungeon.html)
 - **Font Type**: [Enchanted Land Font](https://www.dafont.com/enchanted-land-ds.font)
 - **Potion Icon**: [Potion Icon](https://www.flaticon.com/free-icon/potion_8595942?term=potion&page=1&position=11&origin=search&related_id=8595942)
-- **Background Texture**: [Medieval Background Texture](Link to be added here)
+- **Background Texture**: [Medieval Background Texture](https://www.vecteezy.com/photo/4249691-grunge-texture-wall-abstract-vintage-background-paper-texture)
 
 
 
@@ -69,6 +69,13 @@
 
 - **Running Sound**:  
   [Pixabay Running on Grass](https://pixabay.com/sound-effects/running-on-grass-26845/)
+
+- **Wolf Sound**:  
+  [Label Here](Link here)
+
+- **Fire Torch Sound**:  
+  [Label Here](Link here)
+
 
 ---
 
