@@ -87,7 +87,14 @@
 - Implemented Potion Collection(without Feedback to the user)
 
 ### Priyal Nagpal
-- [Details to be added]
+- Provided links to all the 3D Assets
+- ⁠Created a storyline on Figma UI images for the wolf to interact with the main character
+- Added a box collider to the wolf 
+- Created UI for collecting the potions; 3 UI frames
+- Counter declared for holding number of potions collected. Also, the UI displays how many potions left
+- Screen for ending the game and space-key feature for restarting the game again
+- Trailer for the game
+- ⁠Sound selection for the trailer
 
 ### Sara Taleb Nahzed
 - [Details to be added]
