@@ -77,12 +77,14 @@
 ## Work Done
 
 ### Akshil Shah
-- Setting up repository
-- Setting up Unity Project(folder structure, etc.)
+- Set up repository
+- Set up Unity Project(folder structure, etc.)
 - Scene building
-- Character Import and Animation
-- Implementing Player controls
-- Implementing Camera controls
+- Imported Character
+- Added Character Animation
+- Implemented Player controls
+- Implemented Camera controls
+- Implemented Potion Collection(without Feedback to the user)
 
 ### Priyal Nagpal
 - [Details to be added]
