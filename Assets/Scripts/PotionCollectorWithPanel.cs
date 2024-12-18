@@ -11,10 +11,13 @@ public class PotionCollectorWithPanel : MonoBehaviour
 
     private int potionsCollected = 0;  // Counter for collected potions
     private bool inDialogue = false;   // Is the dialogue panel currently active?
+    private AudioSource potionCollectionSoundSource;
+    private GameObject potionCollectionSoundObject;
 
     private void Start()
     {
         dialoguePanel.SetActive(false); // Ensure the panel is hidden initially
+       potionCollectionSoundObject = GameObject.FindWithTag("PotionCollectionAudio");
     }
 
     public void CollectPotion(GameObject potion)
@@ -27,8 +30,29 @@ public class PotionCollectorWithPanel : MonoBehaviour
     {
         if (potionsCollected < potionImages.Length)
         {
+
             inDialogue = true;
             dialoguePanel.SetActive(true);
+
+
+            
+            //play potion collection sound
+            if (potionCollectionSoundObject != null)
+            {
+                // Get the AudioSource component from the found object
+                potionCollectionSoundSource = potionCollectionSoundObject.GetComponent<AudioSource>();
+
+                if (potionCollectionSoundSource != null)
+                {
+                    // Example: Play the audio
+                    potionCollectionSoundSource.Play();
+                }
+                else
+                {
+                    Debug.LogWarning("No AudioSource component found on the object with the specified tag.");
+                }
+            }
+  
 
             // Assign the sprite and debug
             dialogueImage.sprite = potionImages[potionsCollected];

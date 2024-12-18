@@ -17,8 +17,6 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
-        var sound = FindObjectsOfType<AudioSource>();
-        Debug.Log(sound);
         
         rb = GetComponent<Rigidbody>();
         player = GameObject.FindGameObjectWithTag("Player");

@@ -10,6 +10,7 @@ TagManager:
   - endflag
   - GroundLayer
   - PlayerParent
+  - PotionCollectionAudio
   layers:
   - Default
   - TransparentFX
