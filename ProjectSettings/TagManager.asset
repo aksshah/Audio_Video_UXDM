@@ -11,6 +11,7 @@ TagManager:
   - GroundLayer
   - PlayerParent
   - PotionCollectionAudio
+  - Wolf
   layers:
   - Default
   - TransparentFX
