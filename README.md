@@ -24,7 +24,7 @@
 
 3. **Open the Project in Unity**
    - Launch **Unity Hub**.
-   - Use the option **Add Project from Disk** to add the downloaded project folder.
+   - Use the option **Add Project from Disk** to add the project folder downloaded from Github.
 
 4. **Open the Scene**
    - In Unity, navigate to `Assets/Scenes/Castle.unity`.
@@ -96,6 +96,7 @@
 - Implemented Player controls
 - Implemented Camera controls
 - Implemented Potion Collection(without Feedback to the user)
+- Compiling the documentation
 
 ### Priyal Nagpal
 - Provided links to all the 3D Assets
