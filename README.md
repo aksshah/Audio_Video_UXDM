@@ -14,9 +14,13 @@
    - Unzip the downloaded project from GitHub.
    - Perform the following steps:
 
-     **3.1** Navigate to `Assets/Prefabs/Unity_Store__Medieval_Castle` in the unzipped project folder. Paste the folder named `Material` (downloaded from Google Drive under the folder `Unity_Store__Medieval_Castle`).
+     **3.1** 
+     - Navigate to the folder `Unity_Store__Medieval_Castle` found in the downloaded content from the Google Drive, and copy the folder `Material`.
+     - Navigate to `Assets/Prefabs/Unity_Store__Medieval_Castle` in the project folder downloaded from Github, and paste the copied folder. (Replace the existing folder if asked).
 
-     **3.2** Navigate to `Assets/Prefabs/Unity_Store__Terrain/_3D_Realistic_Terrain_Free/` in the unzipped project folder. Paste the folder named `Textures` (downloaded from Google Drive under the folder `Unity_Store__Terrain`).
+     **3.2** 
+     - Navigate to the folder `Unity_Store__Terrain` found in the downloaded content from the Google Drive, and copy all the content: Folder named `Textures` and file named `Textures.meta`.
+     - Navigate to `Assets/Prefabs/Unity_Store__Terrain/_3D_Realistic_Terrain_Free/` in the project folder downloaded from Github, and paste the copied content. (Replace the existing content if asked).
 
 3. **Open the Project in Unity**
    - Launch **Unity Hub**.
