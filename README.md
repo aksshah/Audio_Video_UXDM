@@ -75,10 +75,13 @@
   [Pixabay Running on Grass](https://pixabay.com/sound-effects/running-on-grass-26845/)
 
 - **Wolf Sound**:  
-  [Label Here](Link here)
+  [Pixabay Wolf Sound](https://pixabay.com/sound-effects/wolf-growls-at-maurice-and-philippe-with-his-teeth-193235/)
 
 - **Fire Torch Sound**:  
-  [Label Here](Link here)
+  [Pixabay Fire Sound](https://pixabay.com/sound-effects/fire-sound-222359/)
+
+- **Potion Collection Sound**:  
+  [Pixabay Potion Collection Sound](https://pixabay.com/sound-effects/cute-level-up-3-189853/)
 
 
 ---
@@ -109,7 +112,12 @@
 - ⁠Sound selection for the trailer
 
 ### Sara Taleb Nahzed
-- [Details to be added]
+- Added following sounds:
+  - Running (2D)
+  - Potion Collection (2D)
+  - Wind sound (Background Ambiance)
+  - Fire sound (3D - when the player approaches the five torches, they should hear the fire sound)
+  - Wolf Sound (3D - when the player approaches the source of the wolf sound, they should hear it, and the sound should fade away as they move farther from it)
 
 
 
