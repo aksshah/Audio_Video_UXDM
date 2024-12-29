@@ -84,9 +84,11 @@
   [Pixabay Potion Collection Sound](https://pixabay.com/sound-effects/cute-level-up-3-189853/)
 
 - **Trailer Sound**:  
-  [Sound 1: SoundGalleryBy on Pixabay](https://pixabay.com/de/music/uberschrift-medieval-epic-adventure-action-heroic-powerful-opener-intro-117935/)
-  [Sound 2: SoundGalleryBy on Pixabay]
-(https://pixabay.com/sound-effects/cute-level-up-3-189853/)
+[Sound 1: SoundGalleryBy on Pixabay](https://pixabay.com/de/music/uberschrift-medieval-epic-adventure-action-heroic-powerful-opener-intro-117935/)
+  
+[Sound 2: SoundGalleryBy on Pixabay](https://pixabay.com/sound-effects/cute-level-up-3-189853/)
+
+
 ---
 
 
